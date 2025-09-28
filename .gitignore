@@ -35,3 +35,14 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+# Hermes guard
+backups/
+logs/
+*.tar
+*.tar.*
+*.zip
+*.zst
+*.gz
+*.tmp
+*.swp
+*.swo
